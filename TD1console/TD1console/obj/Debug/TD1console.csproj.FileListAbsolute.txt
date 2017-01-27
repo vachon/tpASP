@@ -1,0 +1,11 @@
+P:\S4\ASP.NET\TD1console\TD1console\bin\Debug\TD1console.exe.config
+P:\S4\ASP.NET\TD1console\TD1console\bin\Debug\TD1console.exe
+P:\S4\ASP.NET\TD1console\TD1console\bin\Debug\TD1console.pdb
+P:\S4\ASP.NET\TD1console\TD1console\bin\Debug\EntityFramework.dll
+P:\S4\ASP.NET\TD1console\TD1console\bin\Debug\EntityFramework.SqlServer.dll
+P:\S4\ASP.NET\TD1console\TD1console\bin\Debug\EntityFramework.xml
+P:\S4\ASP.NET\TD1console\TD1console\bin\Debug\EntityFramework.SqlServer.xml
+P:\S4\ASP.NET\TD1console\TD1console\bin\Debug\fr\EntityFramework.resources.dll
+P:\S4\ASP.NET\TD1console\TD1console\obj\Debug\TD1console.csprojResolveAssemblyReference.cache
+P:\S4\ASP.NET\TD1console\TD1console\obj\Debug\TD1console.exe
+P:\S4\ASP.NET\TD1console\TD1console\obj\Debug\TD1console.pdb
